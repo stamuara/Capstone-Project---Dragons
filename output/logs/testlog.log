@@ -1,0 +1,1139 @@
+2023-05-30 00:34:18,371 - logger_File -INFO - user is on retail website
+2023-05-30 00:34:38,131 - logger_File -INFO - user is on retail website
+2023-05-30 00:36:18,144 - logger_File -INFO - user is on retail website
+2023-05-30 22:46:06,521 - logger_File -INFO - user is on retail website
+2023-05-30 22:46:06,707 - logger_File -INFO - user clicked on Sign In option
+2023-05-30 22:46:06,970 - logger_File -INFO - user entered email and password
+2023-05-30 22:46:07,046 - logger_File -INFO - user clicked on login button
+2023-05-30 22:48:08,596 - logger_File -INFO - user is on retail website
+2023-05-30 22:48:08,716 - logger_File -INFO - user clicked on Sign In option
+2023-05-30 22:48:08,948 - logger_File -INFO - user entered email and password
+2023-05-30 22:48:09,035 - logger_File -INFO - user clicked on login button
+2023-05-30 22:54:22,514 - logger_File -INFO - user is on retail website
+2023-05-30 22:54:22,655 - logger_File -INFO - user clicked on Sign In option
+2023-05-30 22:54:22,872 - logger_File -INFO - user entered email and password
+2023-05-30 22:54:22,951 - logger_File -INFO - user clicked on login button
+2023-05-30 22:54:23,454 - logger_File -INFO - user logged in into account
+2023-05-30 23:28:12,478 - logger_File -INFO - user is on retail website
+2023-05-30 23:28:12,624 - logger_File -INFO - user clicked on Sign In option
+2023-05-30 23:28:12,835 - logger_File -INFO - user entered email and password
+2023-05-30 23:28:12,909 - logger_File -INFO - user clicked on login button
+2023-05-30 23:28:13,443 - logger_File -INFO - user logged in into account
+2023-05-31 00:03:04,990 - logger_File -INFO - user is on retail website
+2023-05-31 00:03:05,192 - logger_File -INFO - user clicked on Sign In option
+2023-05-31 00:03:05,435 - logger_File -INFO - user entered email and password
+2023-05-31 00:03:05,515 - logger_File -INFO - user clicked on login button
+2023-05-31 00:03:06,040 - logger_File -INFO - user logged in into account
+2023-05-31 00:24:18,956 - logger_File -INFO - user is on retail website
+2023-05-31 00:24:19,088 - logger_File -INFO - user clicked on Sign In option
+2023-05-31 00:24:19,352 - logger_File -INFO - user entered email and password
+2023-05-31 00:24:19,453 - logger_File -INFO - user clicked on login button
+2023-05-31 00:24:19,897 - logger_File -INFO - user logged in into account
+2023-05-31 00:24:20,037 - logger_File -INFO - user clicked on Account option
+2023-05-31 00:24:20,448 - logger_File -INFO - user updated the name and the phone value
+2023-05-31 00:25:04,599 - logger_File -INFO - user is on retail website
+2023-05-31 00:25:04,777 - logger_File -INFO - user clicked on Sign In option
+2023-05-31 00:25:05,032 - logger_File -INFO - user entered email and password
+2023-05-31 00:25:05,106 - logger_File -INFO - user clicked on login button
+2023-05-31 00:25:05,603 - logger_File -INFO - user logged in into account
+2023-05-31 00:25:05,738 - logger_File -INFO - user clicked on Account option
+2023-05-31 00:25:06,053 - logger_File -INFO - user updated the name and the phone value
+2023-05-31 00:29:05,924 - logger_File -INFO - user is on retail website
+2023-05-31 00:29:06,102 - logger_File -INFO - user clicked on Sign In option
+2023-05-31 00:29:06,333 - logger_File -INFO - user entered email and password
+2023-05-31 00:29:06,414 - logger_File -INFO - user clicked on login button
+2023-05-31 00:29:06,905 - logger_File -INFO - user logged in into account
+2023-05-31 00:29:07,045 - logger_File -INFO - user clicked on Account option
+2023-05-31 00:29:07,350 - logger_File -INFO - user updated the name and the phone value
+2023-05-31 00:29:31,538 - logger_File -INFO - user is on retail website
+2023-05-31 00:29:31,687 - logger_File -INFO - user clicked on Sign In option
+2023-05-31 00:29:31,910 - logger_File -INFO - user entered email and password
+2023-05-31 00:29:31,992 - logger_File -INFO - user clicked on login button
+2023-05-31 00:29:32,815 - logger_File -INFO - user logged in into account
+2023-05-31 00:29:32,932 - logger_File -INFO - user clicked on Account option
+2023-05-31 00:29:33,250 - logger_File -INFO - user updated the name and the phone value
+2023-05-31 00:32:26,253 - logger_File -INFO - user is on retail website
+2023-05-31 00:32:26,381 - logger_File -INFO - user clicked on Sign In option
+2023-05-31 00:32:26,613 - logger_File -INFO - user entered email and password
+2023-05-31 00:32:26,699 - logger_File -INFO - user clicked on login button
+2023-05-31 00:32:27,132 - logger_File -INFO - user logged in into account
+2023-05-31 00:32:27,275 - logger_File -INFO - user clicked on Account option
+2023-05-31 00:32:27,604 - logger_File -INFO - user updated the name and the phone value
+2023-05-31 00:35:46,892 - logger_File -INFO - user is on retail website
+2023-05-31 00:35:47,081 - logger_File -INFO - user clicked on Sign In option
+2023-05-31 00:35:47,340 - logger_File -INFO - user entered email and password
+2023-05-31 00:35:47,428 - logger_File -INFO - user clicked on login button
+2023-05-31 00:35:47,936 - logger_File -INFO - user logged in into account
+2023-05-31 00:35:48,076 - logger_File -INFO - user clicked on Account option
+2023-05-31 00:35:48,399 - logger_File -INFO - user updated the name and the phone value
+2023-05-31 00:36:29,575 - logger_File -INFO - user is on retail website
+2023-05-31 00:36:29,756 - logger_File -INFO - user clicked on Sign In option
+2023-05-31 00:36:29,998 - logger_File -INFO - user entered email and password
+2023-05-31 00:36:30,092 - logger_File -INFO - user clicked on login button
+2023-05-31 00:36:30,625 - logger_File -INFO - user logged in into account
+2023-05-31 00:36:30,782 - logger_File -INFO - user clicked on Account option
+2023-05-31 00:36:31,134 - logger_File -INFO - user updated the name and the phone value
+2023-05-31 00:37:48,788 - logger_File -INFO - user is on retail website
+2023-05-31 00:37:48,899 - logger_File -INFO - user clicked on Sign In option
+2023-05-31 00:37:49,126 - logger_File -INFO - user entered email and password
+2023-05-31 00:37:49,207 - logger_File -INFO - user clicked on login button
+2023-05-31 00:37:49,705 - logger_File -INFO - user logged in into account
+2023-05-31 00:37:49,856 - logger_File -INFO - user clicked on Account option
+2023-05-31 00:37:50,244 - logger_File -INFO - user updated the name and the phone value
+2023-05-31 00:38:37,206 - logger_File -INFO - user is on retail website
+2023-05-31 00:38:37,352 - logger_File -INFO - user clicked on Sign In option
+2023-05-31 00:38:37,587 - logger_File -INFO - user entered email and password
+2023-05-31 00:38:37,667 - logger_File -INFO - user clicked on login button
+2023-05-31 00:38:38,163 - logger_File -INFO - user logged in into account
+2023-05-31 00:38:38,295 - logger_File -INFO - user clicked on Account option
+2023-05-31 00:38:38,600 - logger_File -INFO - user updated the name and the phone value
+2023-05-31 00:38:38,676 - logger_File -INFO - user clicked on update button
+2023-05-31 00:39:03,987 - logger_File -INFO - user is on retail website
+2023-05-31 00:39:04,168 - logger_File -INFO - user clicked on Sign In option
+2023-05-31 00:39:04,407 - logger_File -INFO - user entered email and password
+2023-05-31 00:39:04,482 - logger_File -INFO - user clicked on login button
+2023-05-31 00:39:04,962 - logger_File -INFO - user logged in into account
+2023-05-31 00:39:05,100 - logger_File -INFO - user clicked on Account option
+2023-05-31 00:39:05,421 - logger_File -INFO - user updated the name and the phone value
+2023-05-31 00:39:05,495 - logger_File -INFO - user clicked on update button
+2023-05-31 00:40:32,847 - logger_File -INFO - user is on retail website
+2023-05-31 00:40:32,970 - logger_File -INFO - user clicked on Sign In option
+2023-05-31 00:40:33,182 - logger_File -INFO - user entered email and password
+2023-05-31 00:40:33,265 - logger_File -INFO - user clicked on login button
+2023-05-31 00:40:33,771 - logger_File -INFO - user logged in into account
+2023-05-31 00:40:33,895 - logger_File -INFO - user clicked on Account option
+2023-05-31 00:40:34,209 - logger_File -INFO - user updated the name and the phone value
+2023-05-31 00:40:34,292 - logger_File -INFO - user clicked on update button
+2023-05-31 00:41:16,826 - logger_File -INFO - user is on retail website
+2023-05-31 00:41:16,982 - logger_File -INFO - user clicked on Sign In option
+2023-05-31 00:41:17,204 - logger_File -INFO - user entered email and password
+2023-05-31 00:41:17,280 - logger_File -INFO - user clicked on login button
+2023-05-31 00:41:17,801 - logger_File -INFO - user logged in into account
+2023-05-31 00:41:17,918 - logger_File -INFO - user clicked on Account option
+2023-05-31 00:41:18,244 - logger_File -INFO - user updated the name and the phone value
+2023-05-31 00:41:18,322 - logger_File -INFO - user clicked on update button
+2023-05-31 00:41:19,056 - logger_File -INFO - user profile information updated
+2023-06-01 21:46:56,407 - logger_File -INFO - user is on retail website
+2023-06-01 21:46:56,555 - logger_File -INFO - user clicked on Sign In option
+2023-06-01 21:46:56,775 - logger_File -INFO - user entered email and password
+2023-06-01 21:46:56,854 - logger_File -INFO - user clicked on login button
+2023-06-01 21:46:57,350 - logger_File -INFO - user logged in into account
+2023-06-01 21:46:57,497 - logger_File -INFO - user clicked on Account option
+2023-06-01 22:07:34,408 - logger_File -INFO - user is on retail website
+2023-06-01 22:07:34,545 - logger_File -INFO - user clicked on Sign In option
+2023-06-01 22:07:34,771 - logger_File -INFO - user entered email and password
+2023-06-01 22:07:34,855 - logger_File -INFO - user clicked on login button
+2023-06-01 22:07:35,365 - logger_File -INFO - user logged in into account
+2023-06-01 22:07:35,515 - logger_File -INFO - user clicked on Account option
+2023-06-01 22:07:35,606 - logger_File -INFO - user successfully click on add payment method link
+2023-06-01 22:08:44,997 - logger_File -INFO - user is on retail website
+2023-06-01 22:08:45,148 - logger_File -INFO - user clicked on Sign In option
+2023-06-01 22:08:45,400 - logger_File -INFO - user entered email and password
+2023-06-01 22:08:45,482 - logger_File -INFO - user clicked on login button
+2023-06-01 22:08:45,983 - logger_File -INFO - user logged in into account
+2023-06-01 22:08:46,123 - logger_File -INFO - user clicked on Account option
+2023-06-01 22:08:46,240 - logger_File -INFO - user successfully click on add payment method link
+2023-06-01 22:10:18,714 - logger_File -INFO - user is on retail website
+2023-06-01 22:10:18,852 - logger_File -INFO - user clicked on Sign In option
+2023-06-01 22:10:19,087 - logger_File -INFO - user entered email and password
+2023-06-01 22:10:19,172 - logger_File -INFO - user clicked on login button
+2023-06-01 22:10:19,722 - logger_File -INFO - user logged in into account
+2023-06-01 22:10:19,851 - logger_File -INFO - user clicked on Account option
+2023-06-01 22:10:19,951 - logger_File -INFO - user successfully click on add payment method link
+2023-06-01 22:20:39,146 - logger_File -INFO - user is on retail website
+2023-06-01 22:20:39,308 - logger_File -INFO - user clicked on Sign In option
+2023-06-01 22:20:39,561 - logger_File -INFO - user entered email and password
+2023-06-01 22:20:39,647 - logger_File -INFO - user clicked on login button
+2023-06-01 22:20:40,155 - logger_File -INFO - user logged in into account
+2023-06-01 22:20:40,282 - logger_File -INFO - user clicked on Account option
+2023-06-01 22:20:40,381 - logger_File -INFO - user successfully click on add payment method link
+2023-06-01 22:22:47,444 - logger_File -INFO - user is on retail website
+2023-06-01 22:22:47,585 - logger_File -INFO - user clicked on Sign In option
+2023-06-01 22:22:47,818 - logger_File -INFO - user entered email and password
+2023-06-01 22:22:47,904 - logger_File -INFO - user clicked on login button
+2023-06-01 22:22:48,416 - logger_File -INFO - user logged in into account
+2023-06-01 22:22:48,565 - logger_File -INFO - user clicked on Account option
+2023-06-01 22:22:48,661 - logger_File -INFO - user successfully click on add payment method link
+2023-06-01 22:25:27,617 - logger_File -INFO - user is on retail website
+2023-06-01 22:25:27,751 - logger_File -INFO - user clicked on Sign In option
+2023-06-01 22:25:27,988 - logger_File -INFO - user entered email and password
+2023-06-01 22:25:28,079 - logger_File -INFO - user clicked on login button
+2023-06-01 22:25:28,514 - logger_File -INFO - user logged in into account
+2023-06-01 22:25:28,663 - logger_File -INFO - user clicked on Account option
+2023-06-01 22:25:28,766 - logger_File -INFO - user successfully click on add payment method link
+2023-06-01 22:36:45,974 - logger_File -INFO - user is on retail website
+2023-06-01 22:36:46,158 - logger_File -INFO - user clicked on Sign In option
+2023-06-01 22:36:46,386 - logger_File -INFO - user entered email and password
+2023-06-01 22:36:46,463 - logger_File -INFO - user clicked on login button
+2023-06-01 22:36:46,962 - logger_File -INFO - user logged in into account
+2023-06-01 22:36:47,087 - logger_File -INFO - user clicked on Account option
+2023-06-01 22:36:47,193 - logger_File -INFO - user successfully click on add payment method link
+2023-06-01 22:38:53,050 - logger_File -INFO - user is on retail website
+2023-06-01 22:38:53,203 - logger_File -INFO - user clicked on Sign In option
+2023-06-01 22:38:53,443 - logger_File -INFO - user entered email and password
+2023-06-01 22:38:53,530 - logger_File -INFO - user clicked on login button
+2023-06-01 22:38:54,038 - logger_File -INFO - user logged in into account
+2023-06-01 22:38:54,181 - logger_File -INFO - user clicked on Account option
+2023-06-01 22:38:54,288 - logger_File -INFO - user successfully click on add payment method link
+2023-06-01 22:41:33,466 - logger_File -INFO - user is on retail website
+2023-06-01 22:41:33,669 - logger_File -INFO - user clicked on Sign In option
+2023-06-01 22:41:33,938 - logger_File -INFO - user entered email and password
+2023-06-01 22:41:34,034 - logger_File -INFO - user clicked on login button
+2023-06-01 22:41:34,508 - logger_File -INFO - user logged in into account
+2023-06-01 22:41:34,632 - logger_File -INFO - user clicked on Account option
+2023-06-01 22:41:34,738 - logger_File -INFO - user successfully click on add payment method link
+2023-06-01 22:41:35,210 - logger_File -INFO - User entered card payment information successfully
+2023-06-01 22:41:35,298 - logger_File -INFO - Add your card button was clicked successfully
+2023-06-01 22:41:36,091 - logger_File -INFO - Payment Method added sucessfully is displayed
+2023-06-01 23:31:30,196 - logger_File -INFO - user is on retail website
+2023-06-01 23:31:30,361 - logger_File -INFO - user clicked on Sign In option
+2023-06-01 23:31:30,605 - logger_File -INFO - user entered email and password
+2023-06-01 23:31:30,685 - logger_File -INFO - user clicked on login button
+2023-06-01 23:31:31,201 - logger_File -INFO - user logged in into account
+2023-06-01 23:31:31,342 - logger_File -INFO - user clicked on Account option
+2023-06-04 02:05:39,313 - logger_File -INFO - user is on retail website
+2023-06-04 02:05:39,476 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 02:05:39,711 - logger_File -INFO - user entered email and password
+2023-06-04 02:05:39,785 - logger_File -INFO - user clicked on login button
+2023-06-04 02:05:40,284 - logger_File -INFO - user logged in into account
+2023-06-04 02:05:40,413 - logger_File -INFO - user clicked on Account option
+2023-06-04 02:07:59,938 - logger_File -INFO - user is on retail website
+2023-06-04 02:08:00,106 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 02:08:00,321 - logger_File -INFO - user entered email and password
+2023-06-04 02:08:00,399 - logger_File -INFO - user clicked on login button
+2023-06-04 02:08:00,905 - logger_File -INFO - user logged in into account
+2023-06-04 02:08:01,037 - logger_File -INFO - user clicked on Account option
+2023-06-04 02:13:42,476 - logger_File -INFO - user is on retail website
+2023-06-04 02:13:42,669 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 02:13:42,973 - logger_File -INFO - user entered email and password
+2023-06-04 02:13:43,055 - logger_File -INFO - user clicked on login button
+2023-06-04 02:13:43,534 - logger_File -INFO - user logged in into account
+2023-06-04 02:13:43,667 - logger_File -INFO - user clicked on Account option
+2023-06-04 02:14:03,807 - logger_File -INFO - Remove button clicked successfully
+2023-06-04 02:14:03,808 - logger_File -INFO - Payment method removed
+2023-06-04 02:14:28,109 - logger_File -INFO - user is on retail website
+2023-06-04 02:14:28,254 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 02:14:28,475 - logger_File -INFO - user entered email and password
+2023-06-04 02:14:28,554 - logger_File -INFO - user clicked on login button
+2023-06-04 02:14:29,183 - logger_File -INFO - user logged in into account
+2023-06-04 02:14:29,308 - logger_File -INFO - user clicked on Account option
+2023-06-04 02:14:29,652 - logger_File -INFO - user updated the name and the phone value
+2023-06-04 02:14:52,862 - logger_File -INFO - user is on retail website
+2023-06-04 02:14:53,031 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 02:14:53,255 - logger_File -INFO - user entered email and password
+2023-06-04 02:14:53,335 - logger_File -INFO - user clicked on login button
+2023-06-04 02:14:53,841 - logger_File -INFO - user logged in into account
+2023-06-04 02:14:53,965 - logger_File -INFO - user clicked on Account option
+2023-06-04 02:14:54,075 - logger_File -INFO - user successfully click on add payment method link
+2023-06-04 02:14:54,528 - logger_File -INFO - User entered card payment information successfully
+2023-06-04 02:14:54,603 - logger_File -INFO - Add your card button was clicked successfully
+2023-06-04 02:14:56,754 - logger_File -INFO - user is on retail website
+2023-06-04 02:14:56,873 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 02:14:57,119 - logger_File -INFO - user entered email and password
+2023-06-04 02:14:57,189 - logger_File -INFO - user clicked on login button
+2023-06-04 02:14:57,616 - logger_File -INFO - user logged in into account
+2023-06-04 02:14:57,738 - logger_File -INFO - user clicked on Account option
+2023-06-04 02:20:38,308 - logger_File -INFO - user is on retail website
+2023-06-04 02:20:38,501 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 02:20:38,761 - logger_File -INFO - user entered email and password
+2023-06-04 02:20:38,838 - logger_File -INFO - user clicked on login button
+2023-06-04 02:20:39,329 - logger_File -INFO - user logged in into account
+2023-06-04 02:20:39,451 - logger_File -INFO - user clicked on Account option
+2023-06-04 02:24:39,117 - logger_File -INFO - user is on retail website
+2023-06-04 02:24:39,268 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 02:24:39,501 - logger_File -INFO - user entered email and password
+2023-06-04 02:24:39,582 - logger_File -INFO - user clicked on login button
+2023-06-04 02:24:40,075 - logger_File -INFO - user logged in into account
+2023-06-04 02:24:40,192 - logger_File -INFO - user clicked on Account option
+2023-06-04 02:31:02,838 - logger_File -INFO - user is on retail website
+2023-06-04 02:31:02,986 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 02:31:03,215 - logger_File -INFO - user entered email and password
+2023-06-04 02:31:03,290 - logger_File -INFO - user clicked on login button
+2023-06-04 02:31:03,799 - logger_File -INFO - user logged in into account
+2023-06-04 02:31:03,917 - logger_File -INFO - user clicked on Account option
+2023-06-04 02:31:06,173 - logger_File -INFO - Remove button clicked successfully
+2023-06-04 02:31:06,174 - logger_File -INFO - Payment method removed
+2023-06-04 02:31:28,820 - logger_File -INFO - user is on retail website
+2023-06-04 02:31:28,968 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 02:31:29,211 - logger_File -INFO - user entered email and password
+2023-06-04 02:31:29,293 - logger_File -INFO - user clicked on login button
+2023-06-04 02:31:29,821 - logger_File -INFO - user logged in into account
+2023-06-04 02:31:29,936 - logger_File -INFO - user clicked on Account option
+2023-06-04 02:31:36,935 - logger_File -INFO - Remove button clicked successfully
+2023-06-04 02:31:36,936 - logger_File -INFO - Payment method removed
+2023-06-04 02:33:02,115 - logger_File -INFO - user is on retail website
+2023-06-04 02:33:02,280 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 02:33:02,522 - logger_File -INFO - user entered email and password
+2023-06-04 02:33:02,603 - logger_File -INFO - user clicked on login button
+2023-06-04 02:33:03,101 - logger_File -INFO - user logged in into account
+2023-06-04 02:33:03,214 - logger_File -INFO - user clicked on Account option
+2023-06-04 02:33:03,447 - logger_File -INFO - 5127 is selected
+2023-06-04 02:33:03,533 - logger_File -INFO - Remove button clicked successfully
+2023-06-04 02:33:03,534 - logger_File -INFO - Payment method removed
+2023-06-04 02:33:29,070 - logger_File -INFO - user is on retail website
+2023-06-04 02:33:29,215 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 02:33:29,454 - logger_File -INFO - user entered email and password
+2023-06-04 02:33:29,533 - logger_File -INFO - user clicked on login button
+2023-06-04 02:33:30,032 - logger_File -INFO - user logged in into account
+2023-06-04 02:33:30,152 - logger_File -INFO - user clicked on Account option
+2023-06-04 02:33:30,315 - logger_File -INFO - 5127 is selected
+2023-06-04 02:33:30,402 - logger_File -INFO - Remove button clicked successfully
+2023-06-04 02:33:30,403 - logger_File -INFO - Payment method removed
+2023-06-04 03:08:47,141 - logger_File -INFO - user is on retail website
+2023-06-04 03:08:47,301 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 03:08:47,542 - logger_File -INFO - user entered email and password
+2023-06-04 03:08:47,626 - logger_File -INFO - user clicked on login button
+2023-06-04 03:08:48,110 - logger_File -INFO - user logged in into account
+2023-06-04 03:08:48,230 - logger_File -INFO - user clicked on Account option
+2023-06-04 03:11:54,249 - logger_File -INFO - user is on retail website
+2023-06-04 03:11:54,452 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 03:11:54,763 - logger_File -INFO - user entered email and password
+2023-06-04 03:11:54,843 - logger_File -INFO - user clicked on login button
+2023-06-04 03:11:55,350 - logger_File -INFO - user logged in into account
+2023-06-04 03:11:55,464 - logger_File -INFO - user clicked on Account option
+2023-06-04 03:16:24,859 - logger_File -INFO - user is on retail website
+2023-06-04 03:16:25,012 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 03:16:25,241 - logger_File -INFO - user entered email and password
+2023-06-04 03:16:25,319 - logger_File -INFO - user clicked on login button
+2023-06-04 03:16:25,818 - logger_File -INFO - user logged in into account
+2023-06-04 03:16:25,944 - logger_File -INFO - user clicked on Account option
+2023-06-04 03:17:57,732 - logger_File -INFO - user is on retail website
+2023-06-04 03:17:57,916 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 03:17:58,163 - logger_File -INFO - user entered email and password
+2023-06-04 03:17:58,245 - logger_File -INFO - user clicked on login button
+2023-06-04 03:17:58,730 - logger_File -INFO - user logged in into account
+2023-06-04 03:17:58,852 - logger_File -INFO - user clicked on Account option
+2023-06-04 03:18:30,385 - logger_File -INFO - user is on retail website
+2023-06-04 03:18:30,554 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 03:18:30,803 - logger_File -INFO - user entered email and password
+2023-06-04 03:18:30,889 - logger_File -INFO - user clicked on login button
+2023-06-04 03:18:31,380 - logger_File -INFO - user logged in into account
+2023-06-04 03:18:31,496 - logger_File -INFO - user clicked on Account option
+2023-06-04 03:22:00,468 - logger_File -INFO - user is on retail website
+2023-06-04 03:22:00,634 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 03:22:00,874 - logger_File -INFO - user entered email and password
+2023-06-04 03:22:00,952 - logger_File -INFO - user clicked on login button
+2023-06-04 03:22:01,451 - logger_File -INFO - user logged in into account
+2023-06-04 03:22:01,577 - logger_File -INFO - user clicked on Account option
+2023-06-04 03:24:17,312 - logger_File -INFO - user is on retail website
+2023-06-04 03:24:17,495 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 03:24:17,760 - logger_File -INFO - user entered email and password
+2023-06-04 03:24:17,839 - logger_File -INFO - user clicked on login button
+2023-06-04 03:24:18,359 - logger_File -INFO - user logged in into account
+2023-06-04 03:24:18,486 - logger_File -INFO - user clicked on Account option
+2023-06-04 03:27:34,708 - logger_File -INFO - user is on retail website
+2023-06-04 03:27:34,868 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 03:27:35,098 - logger_File -INFO - user entered email and password
+2023-06-04 03:27:35,183 - logger_File -INFO - user clicked on login button
+2023-06-04 03:27:35,712 - logger_File -INFO - user logged in into account
+2023-06-04 03:27:35,841 - logger_File -INFO - user clicked on Account option
+2023-06-04 03:32:35,557 - logger_File -INFO - user is on retail website
+2023-06-04 03:32:35,698 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 03:32:35,916 - logger_File -INFO - user entered email and password
+2023-06-04 03:32:36,003 - logger_File -INFO - user clicked on login button
+2023-06-04 03:32:36,605 - logger_File -INFO - user logged in into account
+2023-06-04 03:32:36,727 - logger_File -INFO - user clicked on Account option
+2023-06-04 03:33:54,828 - logger_File -INFO - user is on retail website
+2023-06-04 03:33:54,975 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 03:33:55,206 - logger_File -INFO - user entered email and password
+2023-06-04 03:33:55,285 - logger_File -INFO - user clicked on login button
+2023-06-04 03:33:55,790 - logger_File -INFO - user logged in into account
+2023-06-04 03:33:55,905 - logger_File -INFO - user clicked on Account option
+2023-06-04 03:33:56,032 - logger_File -INFO - Add Address Link Clicked Successfully
+2023-06-04 03:39:45,619 - logger_File -INFO - user is on retail website
+2023-06-04 03:39:45,792 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 03:39:46,030 - logger_File -INFO - user entered email and password
+2023-06-04 03:39:46,105 - logger_File -INFO - user clicked on login button
+2023-06-04 03:39:46,611 - logger_File -INFO - user logged in into account
+2023-06-04 03:39:46,718 - logger_File -INFO - user clicked on Account option
+2023-06-04 03:39:46,851 - logger_File -INFO - Add Address Link Clicked Successfully
+2023-06-04 03:48:19,913 - logger_File -INFO - user is on retail website
+2023-06-04 03:48:20,126 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 03:48:20,389 - logger_File -INFO - user entered email and password
+2023-06-04 03:48:20,465 - logger_File -INFO - user clicked on login button
+2023-06-04 03:48:20,970 - logger_File -INFO - user logged in into account
+2023-06-04 03:48:21,095 - logger_File -INFO - user clicked on Account option
+2023-06-04 03:48:21,231 - logger_File -INFO - Add Address Link Clicked Successfully
+2023-06-04 03:51:06,645 - logger_File -INFO - user is on retail website
+2023-06-04 03:51:06,797 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 03:51:07,013 - logger_File -INFO - user entered email and password
+2023-06-04 03:51:07,090 - logger_File -INFO - user clicked on login button
+2023-06-04 03:51:07,602 - logger_File -INFO - user logged in into account
+2023-06-04 03:51:07,726 - logger_File -INFO - user clicked on Account option
+2023-06-04 03:51:07,884 - logger_File -INFO - Add Address Link Clicked Successfully
+2023-06-04 03:51:08,632 - logger_File -INFO - User entered address detail successfully
+2023-06-04 03:51:08,746 - logger_File -INFO - Add Address button was clicked successfully
+2023-06-04 03:51:09,547 - logger_File -INFO - Address Added Successfullyis displayed
+2023-06-04 23:45:40,325 - logger_File -INFO - user is on retail website
+2023-06-04 23:45:40,435 - logger_File -INFO - user clicked on Sign In option
+2023-06-04 23:45:40,659 - logger_File -INFO - user entered email and password
+2023-06-04 23:45:40,736 - logger_File -INFO - user clicked on login button
+2023-06-04 23:45:41,162 - logger_File -INFO - user logged in into account
+2023-06-04 23:45:41,296 - logger_File -INFO - user clicked on Account option
+2023-06-04 23:45:41,595 - logger_File -INFO - 5127 is selected
+2023-06-05 00:06:29,862 - logger_File -INFO - user is on retail website
+2023-06-05 00:06:30,013 - logger_File -INFO - user clicked on Sign In option
+2023-06-05 00:06:30,227 - logger_File -INFO - user entered email and password
+2023-06-05 00:06:30,309 - logger_File -INFO - user clicked on login button
+2023-06-05 00:06:30,821 - logger_File -INFO - user logged in into account
+2023-06-05 00:06:30,942 - logger_File -INFO - user clicked on Account option
+2023-06-05 00:06:31,192 - logger_File -INFO - 5127 is selected
+2023-06-05 00:06:31,273 - logger_File -INFO - Edit button was clicked successfully
+2023-06-05 00:06:31,800 - logger_File -INFO - Credit card information has been updated
+2023-06-05 00:06:31,878 - logger_File -INFO - Update button was click successfully
+2023-06-05 00:07:59,157 - logger_File -INFO - user is on retail website
+2023-06-05 00:07:59,299 - logger_File -INFO - user clicked on Sign In option
+2023-06-05 00:07:59,525 - logger_File -INFO - user entered email and password
+2023-06-05 00:07:59,606 - logger_File -INFO - user clicked on login button
+2023-06-05 00:08:00,118 - logger_File -INFO - user logged in into account
+2023-06-05 00:08:00,238 - logger_File -INFO - user clicked on Account option
+2023-06-05 00:08:00,409 - logger_File -INFO - 5127 is selected
+2023-06-05 00:08:00,485 - logger_File -INFO - Edit button was clicked successfully
+2023-06-05 00:08:01,024 - logger_File -INFO - Credit card information has been updated
+2023-06-05 00:08:01,100 - logger_File -INFO - Update button was click successfully
+2023-06-05 00:16:27,523 - logger_File -INFO - user is on retail website
+2023-06-05 00:16:27,641 - logger_File -INFO - user clicked on Sign In option
+2023-06-05 00:16:27,851 - logger_File -INFO - user entered email and password
+2023-06-05 00:16:27,929 - logger_File -INFO - user clicked on login button
+2023-06-05 00:16:28,413 - logger_File -INFO - user logged in into account
+2023-06-05 00:16:28,540 - logger_File -INFO - user clicked on Account option
+2023-06-05 00:16:28,725 - logger_File -INFO - 5127 is selected
+2023-06-05 00:16:28,802 - logger_File -INFO - Edit button was clicked successfully
+2023-06-05 00:16:29,487 - logger_File -INFO - Credit card information has been updated
+2023-06-05 00:16:29,566 - logger_File -INFO - Update button was click successfully
+2023-06-05 00:19:31,994 - logger_File -INFO - user is on retail website
+2023-06-05 00:19:32,110 - logger_File -INFO - user clicked on Sign In option
+2023-06-05 00:19:32,333 - logger_File -INFO - user entered email and password
+2023-06-05 00:19:32,415 - logger_File -INFO - user clicked on login button
+2023-06-05 00:19:32,881 - logger_File -INFO - user logged in into account
+2023-06-05 00:19:33,002 - logger_File -INFO - user clicked on Account option
+2023-06-05 22:33:35,497 - logger_File -INFO - user is on retail website
+2023-06-05 22:33:35,678 - logger_File -INFO - user clicked on Sign In option
+2023-06-05 22:33:35,897 - logger_File -INFO - user entered email and password
+2023-06-05 22:33:35,975 - logger_File -INFO - user clicked on login button
+2023-06-05 22:33:36,488 - logger_File -INFO - user logged in into account
+2023-06-05 22:33:36,623 - logger_File -INFO - user clicked on Account option
+2023-06-05 22:33:46,681 - logger_File -INFO - Edit button was clicked successfully
+2023-06-05 22:33:47,298 - logger_File -INFO - Credit card information has been updated
+2023-06-05 22:33:47,378 - logger_File -INFO - Update button was click successfully
+2023-06-05 22:35:13,461 - logger_File -INFO - user is on retail website
+2023-06-05 22:35:13,618 - logger_File -INFO - user clicked on Sign In option
+2023-06-05 22:35:13,839 - logger_File -INFO - user entered email and password
+2023-06-05 22:35:13,920 - logger_File -INFO - user clicked on login button
+2023-06-05 22:35:14,398 - logger_File -INFO - user logged in into account
+2023-06-05 22:35:14,529 - logger_File -INFO - user clicked on Account option
+2023-06-05 22:37:35,144 - logger_File -INFO - user is on retail website
+2023-06-05 22:37:35,288 - logger_File -INFO - user clicked on Sign In option
+2023-06-05 22:37:35,530 - logger_File -INFO - user entered email and password
+2023-06-05 22:37:35,622 - logger_File -INFO - user clicked on login button
+2023-06-05 22:37:36,124 - logger_File -INFO - user logged in into account
+2023-06-05 22:37:36,253 - logger_File -INFO - user clicked on Account option
+2023-06-05 22:37:36,353 - logger_File -INFO - user successfully click on add payment method link
+2023-06-05 22:37:36,805 - logger_File -INFO - User entered card payment information successfully
+2023-06-05 22:37:36,884 - logger_File -INFO - Add your card button was clicked successfully
+2023-06-05 22:38:25,325 - logger_File -INFO - user is on retail website
+2023-06-05 22:38:25,470 - logger_File -INFO - user clicked on Sign In option
+2023-06-05 22:38:25,694 - logger_File -INFO - user entered email and password
+2023-06-05 22:38:25,773 - logger_File -INFO - user clicked on login button
+2023-06-05 22:38:26,283 - logger_File -INFO - user logged in into account
+2023-06-05 22:38:26,410 - logger_File -INFO - user clicked on Account option
+2023-06-05 22:38:32,180 - logger_File -INFO - Edit button was clicked successfully
+2023-06-05 22:38:32,808 - logger_File -INFO - Credit card information has been updated
+2023-06-05 22:38:32,884 - logger_File -INFO - Update button was click successfully
+2023-06-05 22:39:16,874 - logger_File -INFO - user is on retail website
+2023-06-05 22:39:17,003 - logger_File -INFO - user clicked on Sign In option
+2023-06-05 22:39:17,218 - logger_File -INFO - user entered email and password
+2023-06-05 22:39:17,297 - logger_File -INFO - user clicked on login button
+2023-06-05 22:39:17,789 - logger_File -INFO - user logged in into account
+2023-06-05 22:39:17,931 - logger_File -INFO - user clicked on Account option
+2023-06-05 22:39:18,127 - logger_File -INFO - 5127 is selected
+2023-06-05 22:39:18,202 - logger_File -INFO - Edit button was clicked successfully
+2023-06-05 22:39:18,812 - logger_File -INFO - Credit card information has been updated
+2023-06-05 22:39:18,893 - logger_File -INFO - Update button was click successfully
+2023-06-05 22:39:47,885 - logger_File -INFO - user is on retail website
+2023-06-05 22:39:48,037 - logger_File -INFO - user clicked on Sign In option
+2023-06-05 22:39:48,271 - logger_File -INFO - user entered email and password
+2023-06-05 22:39:48,346 - logger_File -INFO - user clicked on login button
+2023-06-05 22:39:48,850 - logger_File -INFO - user logged in into account
+2023-06-05 22:39:48,974 - logger_File -INFO - user clicked on Account option
+2023-06-05 22:39:49,144 - logger_File -INFO - 5127 is selected
+2023-06-05 22:39:49,217 - logger_File -INFO - Edit button was clicked successfully
+2023-06-05 22:39:49,904 - logger_File -INFO - Credit card information has been updated
+2023-06-05 22:39:49,981 - logger_File -INFO - Update button was click successfully
+2023-06-05 22:41:18,413 - logger_File -INFO - user is on retail website
+2023-06-05 22:41:18,559 - logger_File -INFO - user clicked on Sign In option
+2023-06-05 22:41:18,789 - logger_File -INFO - user entered email and password
+2023-06-05 22:41:18,871 - logger_File -INFO - user clicked on login button
+2023-06-05 22:41:19,383 - logger_File -INFO - user logged in into account
+2023-06-05 22:41:19,535 - logger_File -INFO - user clicked on Account option
+2023-06-05 22:41:19,654 - logger_File -INFO - 5127 is selected
+2023-06-05 22:41:19,736 - logger_File -INFO - Edit button was clicked successfully
+2023-06-05 22:41:20,419 - logger_File -INFO - Credit card information has been updated
+2023-06-05 22:41:20,499 - logger_File -INFO - Update button was click successfully
+2023-06-05 22:44:45,814 - logger_File -INFO - user is on retail website
+2023-06-05 22:44:45,968 - logger_File -INFO - user clicked on Sign In option
+2023-06-05 22:44:46,224 - logger_File -INFO - user entered email and password
+2023-06-05 22:44:46,307 - logger_File -INFO - user clicked on login button
+2023-06-05 22:44:46,783 - logger_File -INFO - user logged in into account
+2023-06-05 22:44:46,906 - logger_File -INFO - user clicked on Account option
+2023-06-05 22:44:51,157 - logger_File -INFO - Edit button was clicked successfully
+2023-06-05 22:44:51,777 - logger_File -INFO - Credit card information has been updated
+2023-06-05 22:44:51,862 - logger_File -INFO - Update button was click successfully
+2023-06-05 23:14:17,172 - logger_File -INFO - user is on retail website
+2023-06-05 23:14:17,334 - logger_File -INFO - user clicked on Sign In option
+2023-06-05 23:14:17,564 - logger_File -INFO - user entered email and password
+2023-06-05 23:14:17,647 - logger_File -INFO - user clicked on login button
+2023-06-05 23:14:18,155 - logger_File -INFO - user logged in into account
+2023-06-05 23:14:18,328 - logger_File -INFO - user clicked on Account option
+2023-06-05 23:14:23,270 - logger_File -INFO - Edit button was clicked successfully
+2023-06-05 23:14:23,903 - logger_File -INFO - Credit card information has been updated
+2023-06-05 23:14:23,975 - logger_File -INFO - Update button was click successfully
+2023-06-10 22:26:23,782 - logger_File -INFO - user is on retail website
+2023-06-10 22:26:23,965 - logger_File -INFO - user clicked on Sign In option
+2023-06-10 22:26:24,216 - logger_File -INFO - user entered email and password
+2023-06-10 22:26:24,297 - logger_File -INFO - user clicked on login button
+2023-06-10 22:26:24,754 - logger_File -INFO - user logged in into account
+2023-06-10 22:26:24,892 - logger_File -INFO - Smart Home Option is selected successfully
+2023-06-10 22:26:25,002 - logger_File -INFO - kasa outdoor smart plug item name was entered successfully
+2023-06-10 22:26:25,078 - logger_File -INFO - Search button was clicked successfully
+2023-06-10 22:26:25,345 - logger_File -INFO - Item was clicked successfully
+2023-06-10 22:26:25,635 - logger_File -INFO - Item quantity was selected successfully
+2023-06-10 22:26:25,712 - logger_File -INFO - Add to Cart button was clicked successfully
+2023-06-10 22:26:25,999 - logger_File -INFO - 2 quantity was displayed in the cart
+2023-06-10 23:07:27,399 - logger_File -INFO - user is on retail website
+2023-06-10 23:07:27,559 - logger_File -INFO - user clicked on Sign In option
+2023-06-10 23:07:27,799 - logger_File -INFO - user entered email and password
+2023-06-10 23:07:27,880 - logger_File -INFO - user clicked on login button
+2023-06-10 23:07:28,362 - logger_File -INFO - user logged in into account
+2023-06-10 23:07:28,498 - logger_File -INFO - Electronics Option is selected successfully
+2023-06-10 23:07:28,590 - logger_File -INFO - Apex Legends entered successfully
+2023-06-10 23:07:28,667 - logger_File -INFO - Search button was clicked successfully
+2023-06-10 23:07:44,162 - logger_File -INFO - Item was clicked successfully
+2023-06-10 23:15:17,449 - logger_File -INFO - user is on retail website
+2023-06-10 23:15:17,585 - logger_File -INFO - user clicked on Sign In option
+2023-06-10 23:15:17,795 - logger_File -INFO - user entered email and password
+2023-06-10 23:15:17,877 - logger_File -INFO - user clicked on login button
+2023-06-10 23:15:18,372 - logger_File -INFO - user logged in into account
+2023-06-10 23:15:18,495 - logger_File -INFO - Electronics Option is selected successfully
+2023-06-10 23:15:18,590 - logger_File -INFO - Apex Legends entered successfully
+2023-06-10 23:15:18,670 - logger_File -INFO - Search button was clicked successfully
+2023-06-10 23:16:13,606 - logger_File -INFO - user is on retail website
+2023-06-10 23:16:13,777 - logger_File -INFO - user clicked on Sign In option
+2023-06-10 23:16:14,041 - logger_File -INFO - user entered email and password
+2023-06-10 23:16:14,123 - logger_File -INFO - user clicked on login button
+2023-06-10 23:16:14,624 - logger_File -INFO - user logged in into account
+2023-06-10 23:16:14,755 - logger_File -INFO - Electronics Option is selected successfully
+2023-06-10 23:16:14,850 - logger_File -INFO - Apex Legends entered successfully
+2023-06-10 23:16:14,929 - logger_File -INFO - Search button was clicked successfully
+2023-06-10 23:17:24,430 - logger_File -INFO - user is on retail website
+2023-06-10 23:17:24,569 - logger_File -INFO - user clicked on Sign In option
+2023-06-10 23:17:24,786 - logger_File -INFO - user entered email and password
+2023-06-10 23:17:24,869 - logger_File -INFO - user clicked on login button
+2023-06-10 23:17:25,336 - logger_File -INFO - user logged in into account
+2023-06-10 23:17:25,475 - logger_File -INFO - Electronics Option is selected successfully
+2023-06-10 23:17:25,570 - logger_File -INFO - Apex Legends entered successfully
+2023-06-10 23:17:25,649 - logger_File -INFO - Search button was clicked successfully
+2023-06-10 23:17:25,919 - logger_File -INFO - Item was clicked Successfully
+2023-06-10 23:17:26,212 - logger_File -INFO - 5 quantity was selected successfully
+2023-06-10 23:17:26,289 - logger_File -INFO - Add to Cart button was clicked successfully
+2023-06-10 23:17:26,504 - logger_File -INFO - 5 quantity was validated successfully
+2023-06-10 23:17:26,596 - logger_File -INFO - Cart button was clicked successfully
+2023-06-10 23:17:26,696 - logger_File -INFO - Proceed to checkout button was clicked successfully
+2023-06-10 23:17:26,769 - logger_File -INFO - Place your order button was clicked successfully
+2023-06-10 23:19:37,256 - logger_File -INFO - user is on retail website
+2023-06-10 23:19:37,425 - logger_File -INFO - user clicked on Sign In option
+2023-06-10 23:19:37,651 - logger_File -INFO - user entered email and password
+2023-06-10 23:19:37,734 - logger_File -INFO - user clicked on login button
+2023-06-10 23:19:38,211 - logger_File -INFO - user logged in into account
+2023-06-10 23:19:38,348 - logger_File -INFO - Electronics Option is selected successfully
+2023-06-10 23:19:38,443 - logger_File -INFO - Apex Legends entered successfully
+2023-06-10 23:19:38,519 - logger_File -INFO - Search button was clicked successfully
+2023-06-10 23:19:38,784 - logger_File -INFO - Item was clicked Successfully
+2023-06-10 23:19:39,080 - logger_File -INFO - 5 quantity was selected successfully
+2023-06-10 23:19:39,151 - logger_File -INFO - Add to Cart button was clicked successfully
+2023-06-10 23:19:39,398 - logger_File -INFO - 5 quantity was validated successfully
+2023-06-10 23:19:39,490 - logger_File -INFO - Cart button was clicked successfully
+2023-06-10 23:19:39,591 - logger_File -INFO - Proceed to checkout button was clicked successfully
+2023-06-10 23:19:39,667 - logger_File -INFO - Place your order button was clicked successfully
+2023-06-10 23:19:40,639 - logger_File -INFO - Order Placed Successfully message was verified successfully
+2023-06-11 22:37:22,138 - logger_File -INFO - user is on retail website
+2023-06-11 22:37:22,287 - logger_File -INFO - user clicked on Sign In option
+2023-06-11 22:37:22,509 - logger_File -INFO - user entered email and password
+2023-06-11 22:37:22,590 - logger_File -INFO - user clicked on login button
+2023-06-11 22:37:23,081 - logger_File -INFO - user logged in into account
+2023-06-11 22:37:23,185 - logger_File -INFO - Order link clicked successfully
+2023-06-11 22:37:23,469 - logger_File -INFO - Cancel the order button was clicked Successfully
+2023-06-11 22:37:23,577 - logger_File -INFO - Bought wrong item reason was selected successfully
+2023-06-11 22:37:23,652 - logger_File -INFO - Cancel submit button was clicked successfully
+2023-06-11 22:40:26,942 - logger_File -INFO - user is on retail website
+2023-06-11 22:40:27,081 - logger_File -INFO - user clicked on Sign In option
+2023-06-11 22:40:27,334 - logger_File -INFO - user entered email and password
+2023-06-11 22:40:27,414 - logger_File -INFO - user clicked on login button
+2023-06-11 22:40:27,907 - logger_File -INFO - user logged in into account
+2023-06-11 22:40:28,016 - logger_File -INFO - Order link clicked successfully
+2023-06-11 22:40:57,513 - logger_File -INFO - user is on retail website
+2023-06-11 22:40:57,643 - logger_File -INFO - user clicked on Sign In option
+2023-06-11 22:40:57,853 - logger_File -INFO - user entered email and password
+2023-06-11 22:40:57,931 - logger_File -INFO - user clicked on login button
+2023-06-11 22:40:58,427 - logger_File -INFO - user logged in into account
+2023-06-11 22:40:58,537 - logger_File -INFO - Order link clicked successfully
+2023-06-11 22:41:11,766 - logger_File -INFO - Cancel the order button was clicked Successfully
+2023-06-11 22:41:11,876 - logger_File -INFO - Bought wrong item reason was selected successfully
+2023-06-11 22:41:11,955 - logger_File -INFO - Cancel submit button was clicked successfully
+2023-06-11 22:41:29,863 - logger_File -INFO - user is on retail website
+2023-06-11 22:41:29,982 - logger_File -INFO - user clicked on Sign In option
+2023-06-11 22:41:30,194 - logger_File -INFO - user entered email and password
+2023-06-11 22:41:30,276 - logger_File -INFO - user clicked on login button
+2023-06-11 22:41:30,847 - logger_File -INFO - user logged in into account
+2023-06-11 22:41:30,958 - logger_File -INFO - Order link clicked successfully
+2023-06-11 22:43:49,181 - logger_File -INFO - user is on retail website
+2023-06-11 22:43:49,300 - logger_File -INFO - user clicked on Sign In option
+2023-06-11 22:43:49,516 - logger_File -INFO - user entered email and password
+2023-06-11 22:43:49,593 - logger_File -INFO - user clicked on login button
+2023-06-11 22:43:50,090 - logger_File -INFO - user logged in into account
+2023-06-11 22:43:50,200 - logger_File -INFO - Order link clicked successfully
+2023-06-11 22:46:25,743 - logger_File -INFO - user is on retail website
+2023-06-11 22:46:25,859 - logger_File -INFO - user clicked on Sign In option
+2023-06-11 22:46:26,075 - logger_File -INFO - user entered email and password
+2023-06-11 22:46:26,155 - logger_File -INFO - user clicked on login button
+2023-06-11 22:46:26,639 - logger_File -INFO - user logged in into account
+2023-06-11 22:46:26,751 - logger_File -INFO - Order link clicked successfully
+2023-06-11 22:46:27,037 - logger_File -INFO - Cancel the order button was clicked Successfully
+2023-06-11 22:46:27,142 - logger_File -INFO - Bought wrong item reason was selected successfully
+2023-06-11 22:46:27,217 - logger_File -INFO - Cancel submit button was clicked successfully
+2023-06-11 22:48:33,177 - logger_File -INFO - user is on retail website
+2023-06-11 22:48:33,334 - logger_File -INFO - user clicked on Sign In option
+2023-06-11 22:48:33,625 - logger_File -INFO - user entered email and password
+2023-06-11 22:48:33,710 - logger_File -INFO - user clicked on login button
+2023-06-11 22:48:34,222 - logger_File -INFO - user logged in into account
+2023-06-11 22:48:34,335 - logger_File -INFO - Order link clicked successfully
+2023-06-11 22:48:34,662 - logger_File -INFO - Cancel the order button was clicked Successfully
+2023-06-11 22:48:34,773 - logger_File -INFO - Bought wrong item reason was selected successfully
+2023-06-11 22:48:34,848 - logger_File -INFO - Cancel submit button was clicked successfully
+2023-06-11 22:54:36,952 - logger_File -INFO - user is on retail website
+2023-06-11 22:54:37,105 - logger_File -INFO - user clicked on Sign In option
+2023-06-11 22:54:37,401 - logger_File -INFO - user entered email and password
+2023-06-11 22:54:37,513 - logger_File -INFO - user clicked on login button
+2023-06-11 22:54:38,004 - logger_File -INFO - user logged in into account
+2023-06-11 22:54:38,115 - logger_File -INFO - Order link clicked successfully
+2023-06-11 22:54:38,372 - logger_File -INFO - Cancel the order button was clicked Successfully
+2023-06-11 22:54:38,476 - logger_File -INFO - Bought wrong item reason was selected successfully
+2023-06-11 22:54:38,549 - logger_File -INFO - Cancel submit button was clicked successfully
+2023-06-11 22:57:15,050 - logger_File -INFO - user is on retail website
+2023-06-11 22:57:15,160 - logger_File -INFO - user clicked on Sign In option
+2023-06-11 22:57:15,377 - logger_File -INFO - user entered email and password
+2023-06-11 22:57:15,462 - logger_File -INFO - user clicked on login button
+2023-06-11 22:57:16,011 - logger_File -INFO - user logged in into account
+2023-06-11 22:57:16,126 - logger_File -INFO - Order link clicked successfully
+2023-06-11 22:57:16,482 - logger_File -INFO - Cancel the order button was clicked Successfully
+2023-06-11 22:57:16,591 - logger_File -INFO - Bought wrong item reason was selected successfully
+2023-06-11 22:57:16,669 - logger_File -INFO - Cancel submit button was clicked successfully
+2023-06-12 23:16:57,023 - logger_File -INFO - user is on retail website
+2023-06-12 23:16:57,242 - logger_File -INFO - All Departments button clicked successfully
+2023-06-12 23:16:57,388 - logger_File -INFO - TV & Video is present
+2023-06-12 23:16:57,451 - logger_File -INFO - Video Games is present
+2023-06-12 23:16:59,707 - logger_File -INFO - user is on retail website
+2023-06-12 23:16:59,875 - logger_File -INFO - All Departments button clicked successfully
+2023-06-12 23:17:02,189 - logger_File -INFO - user is on retail website
+2023-06-12 23:17:02,363 - logger_File -INFO - All Departments button clicked successfully
+2023-06-12 23:17:04,793 - logger_File -INFO - user is on retail website
+2023-06-12 23:17:04,964 - logger_File -INFO - All Departments button clicked successfully
+2023-06-12 23:17:07,316 - logger_File -INFO - user is on retail website
+2023-06-12 23:17:07,480 - logger_File -INFO - All Departments button clicked successfully
+2023-06-12 23:25:43,495 - logger_File -INFO - user is on retail website
+2023-06-12 23:25:43,652 - logger_File -INFO - user clicked on Sign In option
+2023-06-12 23:25:43,890 - logger_File -INFO - user entered email and password
+2023-06-12 23:25:43,975 - logger_File -INFO - user clicked on login button
+2023-06-12 23:25:44,447 - logger_File -INFO - user logged in into account
+2023-06-13 00:07:14,585 - logger_File -INFO - user is on retail website
+2023-06-13 00:07:14,735 - logger_File -INFO - user clicked on Sign In option
+2023-06-13 00:07:14,818 - logger_File -INFO - Create New Account button was clicked successfully
+2023-06-13 00:07:15,223 - logger_File -INFO - User entered new account information successfully
+2023-06-13 00:07:15,309 - logger_File -INFO - Sign Up button was clicked successfully
+2023-06-13 00:10:02,755 - logger_File -INFO - user is on retail website
+2023-06-13 00:10:02,938 - logger_File -INFO - All Departments button clicked successfully
+2023-06-13 00:11:20,962 - logger_File -INFO - user is on retail website
+2023-06-13 00:11:21,137 - logger_File -INFO - All Departments button clicked successfully
+2023-06-13 00:13:18,390 - logger_File -INFO - user is on retail website
+2023-06-13 00:13:18,562 - logger_File -INFO - All Departments button clicked successfully
+2023-06-13 22:50:04,249 - logger_File -INFO - user is on retail website
+2023-06-13 22:50:04,418 - logger_File -INFO - All Departments button clicked successfully
+2023-06-13 23:18:42,055 - logger_File -INFO - user is on retail website
+2023-06-13 23:18:42,199 - logger_File -INFO - All Departments button clicked successfully
+2023-06-13 23:33:16,934 - logger_File -INFO - user is on retail website
+2023-06-13 23:33:17,105 - logger_File -INFO - All Departments button clicked successfully
+2023-06-13 23:33:30,415 - logger_File -INFO - user is on retail website
+2023-06-13 23:33:30,556 - logger_File -INFO - All Departments button clicked successfully
+2023-06-14 22:51:28,838 - logger_File -INFO - user is on retail website
+2023-06-14 22:51:29,017 - logger_File -INFO - All Departments button clicked successfully
+2023-06-14 22:55:06,871 - logger_File -INFO - user is on retail website
+2023-06-14 22:55:18,123 - logger_File -INFO - user is on retail website
+2023-06-14 22:55:54,429 - logger_File -INFO - user is on retail website
+2023-06-14 22:55:54,574 - logger_File -INFO - All Departments button clicked successfully
+2023-06-14 22:55:54,693 - logger_File -INFO - TV & Video is present
+2023-06-14 22:55:54,751 - logger_File -INFO - Video Games is present
+2023-06-14 22:55:57,190 - logger_File -INFO - user is on retail website
+2023-06-14 22:55:57,371 - logger_File -INFO - All Departments button clicked successfully
+2023-06-14 22:55:59,963 - logger_File -INFO - user is on retail website
+2023-06-14 22:56:00,117 - logger_File -INFO - All Departments button clicked successfully
+2023-06-14 22:56:02,589 - logger_File -INFO - user is on retail website
+2023-06-14 22:56:02,728 - logger_File -INFO - All Departments button clicked successfully
+2023-06-14 22:56:05,147 - logger_File -INFO - user is on retail website
+2023-06-14 22:56:05,310 - logger_File -INFO - All Departments button clicked successfully
+2023-06-14 22:56:20,814 - logger_File -INFO - user is on retail website
+2023-06-14 22:56:28,997 - logger_File -INFO - user is on retail website
+2023-06-14 22:57:07,218 - logger_File -INFO - user is on retail website
+2023-06-14 23:01:56,654 - logger_File -INFO - user is on retail website
+2023-06-14 23:01:56,832 - logger_File -INFO - All Departments button clicked successfully
+2023-06-14 23:01:56,985 - logger_File -INFO - TV & Video is present
+2023-06-14 23:01:57,066 - logger_File -INFO - Video Games is present
+2023-06-14 23:01:59,425 - logger_File -INFO - user is on retail website
+2023-06-14 23:01:59,588 - logger_File -INFO - All Departments button clicked successfully
+2023-06-14 23:02:02,120 - logger_File -INFO - user is on retail website
+2023-06-14 23:02:02,250 - logger_File -INFO - All Departments button clicked successfully
+2023-06-14 23:02:04,707 - logger_File -INFO - user is on retail website
+2023-06-14 23:02:04,847 - logger_File -INFO - All Departments button clicked successfully
+2023-06-14 23:02:07,386 - logger_File -INFO - user is on retail website
+2023-06-14 23:02:07,511 - logger_File -INFO - All Departments button clicked successfully
+2023-06-14 23:04:01,417 - logger_File -INFO - user is on retail website
+2023-06-14 23:04:01,564 - logger_File -INFO - All Departments button clicked successfully
+2023-06-14 23:04:01,594 - logger_File -INFO - options Electronics, Computers, Smart Home, Sports, and Automative are present
+2023-06-14 23:05:39,518 - logger_File -INFO - user is on retail website
+2023-06-14 23:05:39,633 - logger_File -INFO - All Departments button clicked successfully
+2023-06-14 23:08:02,252 - logger_File -INFO - user is on retail website
+2023-06-14 23:08:02,369 - logger_File -INFO - Shop by Departments are presents
+2023-06-14 23:08:02,400 - logger_File -INFO - options Electronics, Computers, Smart Home, Sports, and Automative are present
+2023-06-14 23:08:20,789 - logger_File -INFO - user is on retail website
+2023-06-14 23:08:20,926 - logger_File -INFO - Shop by Departments are presents
+2023-06-14 23:08:20,954 - logger_File -INFO - options Electronics, Computers, Smart Home, Sports, and Automative are present
+2023-06-14 23:09:04,760 - logger_File -INFO - user is on retail website
+2023-06-14 23:09:04,881 - logger_File -INFO - Shop by Departments are presents
+2023-06-14 23:09:04,987 - logger_File -INFO - TV & Video is present
+2023-06-14 23:09:05,050 - logger_File -INFO - Video Games is present
+2023-06-14 23:09:07,486 - logger_File -INFO - user is on retail website
+2023-06-14 23:09:07,643 - logger_File -INFO - Shop by Departments are presents
+2023-06-14 23:09:10,092 - logger_File -INFO - user is on retail website
+2023-06-14 23:09:10,225 - logger_File -INFO - Shop by Departments are presents
+2023-06-14 23:09:12,778 - logger_File -INFO - user is on retail website
+2023-06-14 23:09:12,910 - logger_File -INFO - Shop by Departments are presents
+2023-06-14 23:09:15,363 - logger_File -INFO - user is on retail website
+2023-06-14 23:09:15,476 - logger_File -INFO - Shop by Departments are presents
+2023-06-14 23:11:36,265 - logger_File -INFO - user is on retail website
+2023-06-14 23:11:36,384 - logger_File -INFO - Shop by Departments are presents
+2023-06-14 23:11:36,498 - logger_File -INFO - TV & Video is present
+2023-06-14 23:11:36,552 - logger_File -INFO - Video Games is present
+2023-06-14 23:11:39,025 - logger_File -INFO - user is on retail website
+2023-06-14 23:11:39,176 - logger_File -INFO - Shop by Departments are presents
+2023-06-14 23:11:41,652 - logger_File -INFO - user is on retail website
+2023-06-14 23:11:41,813 - logger_File -INFO - Shop by Departments are presents
+2023-06-14 23:11:44,424 - logger_File -INFO - user is on retail website
+2023-06-14 23:11:44,564 - logger_File -INFO - Shop by Departments are presents
+2023-06-14 23:11:46,955 - logger_File -INFO - user is on retail website
+2023-06-14 23:11:47,095 - logger_File -INFO - Shop by Departments are presents
+2023-06-14 23:12:27,927 - logger_File -INFO - user is on retail website
+2023-06-14 23:12:28,069 - logger_File -INFO - Shop by Departments are presents
+2023-06-14 23:12:28,097 - logger_File -INFO - options Electronics, Computers, Smart Home, Sports, and Automative are present
+2023-06-14 23:42:34,498 - logger_File -INFO - user is on retail website
+2023-06-14 23:42:34,614 - logger_File -INFO - user clicked on Sign In option
+2023-06-14 23:42:34,834 - logger_File -INFO - user entered email and password
+2023-06-14 23:42:34,910 - logger_File -INFO - user clicked on login button
+2023-06-14 23:42:35,413 - logger_File -INFO - user logged in into account
+2023-06-14 23:42:35,531 - logger_File -INFO - user clicked on Account option
+2023-06-14 23:47:10,543 - logger_File -INFO - user is on retail website
+2023-06-14 23:47:10,680 - logger_File -INFO - user clicked on Sign In option
+2023-06-14 23:47:10,900 - logger_File -INFO - user entered email and password
+2023-06-14 23:47:10,976 - logger_File -INFO - user clicked on login button
+2023-06-14 23:47:12,058 - logger_File -INFO - user logged in into account
+2023-06-14 23:47:12,173 - logger_File -INFO - user clicked on Account option
+2023-06-14 23:48:30,472 - logger_File -INFO - user is on retail website
+2023-06-14 23:48:30,583 - logger_File -INFO - user clicked on Sign In option
+2023-06-14 23:48:30,803 - logger_File -INFO - user entered email and password
+2023-06-14 23:48:30,883 - logger_File -INFO - user clicked on login button
+2023-06-14 23:48:31,410 - logger_File -INFO - user logged in into account
+2023-06-14 23:48:31,524 - logger_File -INFO - user clicked on Account option
+2023-06-14 23:48:31,687 - logger_File -INFO - Edit Address Link Clicked Successfully
+2023-06-14 23:48:32,375 - logger_File -INFO - User entered address detail successfully
+2023-06-14 23:48:32,454 - logger_File -INFO - Add Address button was clicked successfully
+2023-06-14 23:50:54,882 - logger_File -INFO - user is on retail website
+2023-06-14 23:50:55,024 - logger_File -INFO - user clicked on Sign In option
+2023-06-14 23:50:55,246 - logger_File -INFO - user entered email and password
+2023-06-14 23:50:55,322 - logger_File -INFO - user clicked on login button
+2023-06-14 23:50:55,795 - logger_File -INFO - user logged in into account
+2023-06-14 23:50:55,914 - logger_File -INFO - user clicked on Account option
+2023-06-14 23:50:56,080 - logger_File -INFO - Edit Address Link Clicked Successfully
+2023-06-14 23:50:56,770 - logger_File -INFO - User entered address detail successfully
+2023-06-14 23:50:56,871 - logger_File -INFO - Add Address button was clicked successfully
+2023-06-14 23:53:17,212 - logger_File -INFO - user is on retail website
+2023-06-14 23:53:17,330 - logger_File -INFO - user clicked on Sign In option
+2023-06-14 23:53:17,548 - logger_File -INFO - user entered email and password
+2023-06-14 23:53:17,626 - logger_File -INFO - user clicked on login button
+2023-06-14 23:53:18,132 - logger_File -INFO - user logged in into account
+2023-06-14 23:53:18,247 - logger_File -INFO - user clicked on Account option
+2023-06-14 23:53:18,370 - logger_File -INFO - Add Address Link Clicked Successfully
+2023-06-14 23:53:19,117 - logger_File -INFO - User entered address detail successfully
+2023-06-14 23:53:19,209 - logger_File -INFO - Add Address button was clicked successfully
+2023-06-14 23:53:19,980 - logger_File -INFO - Address Added Successfullyis displayed
+2023-06-14 23:54:56,541 - logger_File -INFO - user is on retail website
+2023-06-14 23:54:56,656 - logger_File -INFO - user clicked on Sign In option
+2023-06-14 23:54:56,889 - logger_File -INFO - user entered email and password
+2023-06-14 23:54:56,970 - logger_File -INFO - user clicked on login button
+2023-06-14 23:54:57,459 - logger_File -INFO - user logged in into account
+2023-06-14 23:54:57,571 - logger_File -INFO - user clicked on Account option
+2023-06-14 23:54:57,739 - logger_File -INFO - Edit Address Link Clicked Successfully
+2023-06-14 23:54:58,423 - logger_File -INFO - User entered address detail successfully
+2023-06-14 23:54:58,499 - logger_File -INFO - Add Address button was clicked successfully
+2023-06-14 23:58:26,787 - logger_File -INFO - user is on retail website
+2023-06-14 23:58:26,891 - logger_File -INFO - user clicked on Sign In option
+2023-06-14 23:58:27,113 - logger_File -INFO - user entered email and password
+2023-06-14 23:58:27,191 - logger_File -INFO - user clicked on login button
+2023-06-14 23:58:27,687 - logger_File -INFO - user logged in into account
+2023-06-14 23:58:27,800 - logger_File -INFO - user clicked on Account option
+2023-06-14 23:58:27,972 - logger_File -INFO - Edit Address Link Clicked Successfully
+2023-06-14 23:58:28,644 - logger_File -INFO - User entered address detail successfully
+2023-06-14 23:58:28,719 - logger_File -INFO - Add Address button was clicked successfully
+2023-06-14 23:59:34,803 - logger_File -INFO - user is on retail website
+2023-06-14 23:59:34,918 - logger_File -INFO - user clicked on Sign In option
+2023-06-14 23:59:35,144 - logger_File -INFO - user entered email and password
+2023-06-14 23:59:35,226 - logger_File -INFO - user clicked on login button
+2023-06-14 23:59:35,714 - logger_File -INFO - user logged in into account
+2023-06-14 23:59:35,836 - logger_File -INFO - user clicked on Account option
+2023-06-14 23:59:35,952 - logger_File -INFO - Add Address Link Clicked Successfully
+2023-06-14 23:59:36,671 - logger_File -INFO - User entered address detail successfully
+2023-06-14 23:59:36,771 - logger_File -INFO - Add Address button was clicked successfully
+2023-06-14 23:59:37,531 - logger_File -INFO - Address Added Successfullyis displayed
+2023-06-15 00:00:38,051 - logger_File -INFO - user is on retail website
+2023-06-15 00:00:38,165 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 00:00:38,392 - logger_File -INFO - user entered email and password
+2023-06-15 00:00:38,478 - logger_File -INFO - user clicked on login button
+2023-06-15 00:00:38,983 - logger_File -INFO - user logged in into account
+2023-06-15 00:00:39,097 - logger_File -INFO - user clicked on Account option
+2023-06-15 00:00:39,268 - logger_File -INFO - Edit Address Link Clicked Successfully
+2023-06-15 00:00:39,958 - logger_File -INFO - User entered address detail successfully
+2023-06-15 00:00:40,037 - logger_File -INFO - Add Address button was clicked successfully
+2023-06-15 00:22:31,793 - logger_File -INFO - user is on retail website
+2023-06-15 00:22:31,947 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 00:22:32,171 - logger_File -INFO - user entered email and password
+2023-06-15 00:22:32,251 - logger_File -INFO - user clicked on login button
+2023-06-15 00:22:32,799 - logger_File -INFO - user logged in into account
+2023-06-15 00:22:32,893 - logger_File -INFO - Order link clicked successfully
+2023-06-15 00:22:56,723 - logger_File -INFO - user is on retail website
+2023-06-15 00:22:56,839 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 00:22:57,059 - logger_File -INFO - user entered email and password
+2023-06-15 00:22:57,140 - logger_File -INFO - user clicked on login button
+2023-06-15 00:22:57,631 - logger_File -INFO - user logged in into account
+2023-06-15 00:22:57,721 - logger_File -INFO - Order link clicked successfully
+2023-06-15 00:22:58,000 - logger_File -INFO - Rerurn Item button was clicked Successfully
+2023-06-15 00:22:58,108 - logger_File -INFO - Item damaged reason was selected successfully
+2023-06-15 00:22:58,198 - logger_File -INFO - FedEx reason was selected successfully
+2023-06-15 00:22:58,273 - logger_File -INFO - Return order button was clicked successfully
+2023-06-15 00:26:33,935 - logger_File -INFO - user is on retail website
+2023-06-15 00:26:34,070 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 00:26:34,286 - logger_File -INFO - user entered email and password
+2023-06-15 00:26:34,368 - logger_File -INFO - user clicked on login button
+2023-06-15 00:26:34,847 - logger_File -INFO - user logged in into account
+2023-06-15 00:26:34,939 - logger_File -INFO - Order link clicked successfully
+2023-06-15 00:26:58,959 - logger_File -INFO - user is on retail website
+2023-06-15 00:26:59,075 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 00:26:59,290 - logger_File -INFO - user entered email and password
+2023-06-15 00:26:59,366 - logger_File -INFO - user clicked on login button
+2023-06-15 00:26:59,894 - logger_File -INFO - user logged in into account
+2023-06-15 00:26:59,987 - logger_File -INFO - Order link clicked successfully
+2023-06-15 00:27:00,368 - logger_File -INFO - Rerurn Item button was clicked Successfully
+2023-06-15 00:27:00,480 - logger_File -INFO - Item damaged reason was selected successfully
+2023-06-15 00:27:00,572 - logger_File -INFO - FedEx reason was selected successfully
+2023-06-15 00:27:00,649 - logger_File -INFO - Return order button was clicked successfully
+2023-06-15 00:35:39,706 - logger_File -INFO - user is on retail website
+2023-06-15 00:35:39,849 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 00:35:40,144 - logger_File -INFO - user entered email and password
+2023-06-15 00:35:40,230 - logger_File -INFO - user clicked on login button
+2023-06-15 00:35:40,719 - logger_File -INFO - user logged in into account
+2023-06-15 00:35:40,815 - logger_File -INFO - Order link clicked successfully
+2023-06-15 00:35:56,753 - logger_File -INFO - user is on retail website
+2023-06-15 00:35:56,866 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 00:35:57,084 - logger_File -INFO - user entered email and password
+2023-06-15 00:35:57,164 - logger_File -INFO - user clicked on login button
+2023-06-15 00:35:57,671 - logger_File -INFO - user logged in into account
+2023-06-15 00:35:57,766 - logger_File -INFO - Order link clicked successfully
+2023-06-15 00:35:58,021 - logger_File -INFO - Rerurn Item button was clicked Successfully
+2023-06-15 00:35:58,122 - logger_File -INFO - Item damaged reason was selected successfully
+2023-06-15 00:35:58,209 - logger_File -INFO - FedEx reason was selected successfully
+2023-06-15 00:35:58,283 - logger_File -INFO - Return order button was clicked successfully
+2023-06-15 20:30:20,826 - logger_File -INFO - user is on retail website
+2023-06-15 20:30:20,966 - logger_File -INFO - Shop by Departments are presents
+2023-06-15 20:30:21,074 - logger_File -INFO - TV & Video is present
+2023-06-15 20:30:21,139 - logger_File -INFO - Video Games is present
+2023-06-15 20:30:23,513 - logger_File -INFO - user is on retail website
+2023-06-15 20:30:23,661 - logger_File -INFO - Shop by Departments are presents
+2023-06-15 20:30:26,322 - logger_File -INFO - user is on retail website
+2023-06-15 20:30:26,494 - logger_File -INFO - Shop by Departments are presents
+2023-06-15 20:30:29,033 - logger_File -INFO - user is on retail website
+2023-06-15 20:30:29,206 - logger_File -INFO - Shop by Departments are presents
+2023-06-15 20:30:31,728 - logger_File -INFO - user is on retail website
+2023-06-15 20:30:31,873 - logger_File -INFO - Shop by Departments are presents
+2023-06-15 20:31:15,255 - logger_File -INFO - user is on retail website
+2023-06-15 20:31:15,397 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 20:31:15,640 - logger_File -INFO - user entered email and password
+2023-06-15 20:31:15,721 - logger_File -INFO - user clicked on login button
+2023-06-15 20:31:16,222 - logger_File -INFO - user logged in into account
+2023-06-15 20:31:34,268 - logger_File -INFO - user is on retail website
+2023-06-15 20:31:34,398 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 20:31:34,483 - logger_File -INFO - Create New Account button was clicked successfully
+2023-06-15 20:31:34,887 - logger_File -INFO - User entered new account information successfully
+2023-06-15 20:31:34,967 - logger_File -INFO - Sign Up button was clicked successfully
+2023-06-15 20:31:57,052 - logger_File -INFO - user is on retail website
+2023-06-15 20:31:57,167 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 20:31:57,388 - logger_File -INFO - user entered email and password
+2023-06-15 20:31:57,465 - logger_File -INFO - user clicked on login button
+2023-06-15 20:31:57,945 - logger_File -INFO - user logged in into account
+2023-06-15 20:31:58,079 - logger_File -INFO - user clicked on Account option
+2023-06-15 20:31:58,388 - logger_File -INFO - user updated the name and the phone value
+2023-06-15 20:32:26,351 - logger_File -INFO - user is on retail website
+2023-06-15 20:32:26,463 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 20:32:26,676 - logger_File -INFO - user entered email and password
+2023-06-15 20:32:26,752 - logger_File -INFO - user clicked on login button
+2023-06-15 20:32:27,252 - logger_File -INFO - user logged in into account
+2023-06-15 20:32:27,386 - logger_File -INFO - user clicked on Account option
+2023-06-15 20:32:27,692 - logger_File -INFO - user updated the name and the phone value
+2023-06-15 20:32:27,774 - logger_File -INFO - user clicked on update button
+2023-06-15 20:32:28,549 - logger_File -INFO - user profile information updated
+2023-06-15 20:32:54,714 - logger_File -INFO - user is on retail website
+2023-06-15 20:32:54,849 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 20:32:55,072 - logger_File -INFO - user entered email and password
+2023-06-15 20:32:55,153 - logger_File -INFO - user clicked on login button
+2023-06-15 20:32:55,667 - logger_File -INFO - user logged in into account
+2023-06-15 20:32:55,805 - logger_File -INFO - user clicked on Account option
+2023-06-15 20:32:55,906 - logger_File -INFO - user successfully click on add payment method link
+2023-06-15 20:32:56,345 - logger_File -INFO - User entered card payment information successfully
+2023-06-15 20:32:56,426 - logger_File -INFO - Add your card button was clicked successfully
+2023-06-15 20:34:23,318 - logger_File -INFO - user is on retail website
+2023-06-15 20:34:23,433 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 20:34:23,661 - logger_File -INFO - user entered email and password
+2023-06-15 20:34:23,739 - logger_File -INFO - user clicked on login button
+2023-06-15 20:34:24,252 - logger_File -INFO - user logged in into account
+2023-06-15 20:34:24,390 - logger_File -INFO - user clicked on Account option
+2023-06-15 20:36:30,349 - logger_File -INFO - user is on retail website
+2023-06-15 20:36:30,497 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 20:36:30,755 - logger_File -INFO - user entered email and password
+2023-06-15 20:36:30,835 - logger_File -INFO - user clicked on login button
+2023-06-15 20:36:31,350 - logger_File -INFO - user logged in into account
+2023-06-15 20:36:31,484 - logger_File -INFO - user clicked on Account option
+2023-06-15 20:36:31,673 - logger_File -INFO - 5127 is selected
+2023-06-15 20:36:31,750 - logger_File -INFO - Edit button was clicked successfully
+2023-06-15 20:36:32,388 - logger_File -INFO - Credit card information has been updated
+2023-06-15 20:36:32,467 - logger_File -INFO - Update button was click successfully
+2023-06-15 20:37:07,882 - logger_File -INFO - user is on retail website
+2023-06-15 20:37:08,035 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 20:37:08,257 - logger_File -INFO - user entered email and password
+2023-06-15 20:37:08,337 - logger_File -INFO - user clicked on login button
+2023-06-15 20:37:08,819 - logger_File -INFO - user logged in into account
+2023-06-15 20:37:08,957 - logger_File -INFO - user clicked on Account option
+2023-06-15 20:37:09,167 - logger_File -INFO - 5127 is selected
+2023-06-15 20:37:09,248 - logger_File -INFO - Edit button was clicked successfully
+2023-06-15 20:37:09,917 - logger_File -INFO - Credit card information has been updated
+2023-06-15 20:37:09,996 - logger_File -INFO - Update button was click successfully
+2023-06-15 20:39:17,153 - logger_File -INFO - user is on retail website
+2023-06-15 20:39:17,285 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 20:39:17,505 - logger_File -INFO - user entered email and password
+2023-06-15 20:39:17,587 - logger_File -INFO - user clicked on login button
+2023-06-15 20:39:18,108 - logger_File -INFO - user logged in into account
+2023-06-15 20:39:18,228 - logger_File -INFO - user clicked on Account option
+2023-06-15 20:40:00,694 - logger_File -INFO - user is on retail website
+2023-06-15 20:40:00,811 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 20:40:01,026 - logger_File -INFO - user entered email and password
+2023-06-15 20:40:01,107 - logger_File -INFO - user clicked on login button
+2023-06-15 20:40:01,611 - logger_File -INFO - user logged in into account
+2023-06-15 20:40:01,731 - logger_File -INFO - user clicked on Account option
+2023-06-15 20:40:33,301 - logger_File -INFO - user is on retail website
+2023-06-15 20:40:33,416 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 20:40:33,630 - logger_File -INFO - user entered email and password
+2023-06-15 20:40:33,707 - logger_File -INFO - user clicked on login button
+2023-06-15 20:40:34,204 - logger_File -INFO - user logged in into account
+2023-06-15 20:40:34,313 - logger_File -INFO - user clicked on Account option
+2023-06-15 20:40:34,514 - logger_File -INFO - 1255 is selected
+2023-06-15 20:40:34,588 - logger_File -INFO - Remove button clicked successfully
+2023-06-15 20:40:34,589 - logger_File -INFO - Payment method removed
+2023-06-15 20:41:09,307 - logger_File -INFO - user is on retail website
+2023-06-15 20:41:09,463 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 20:41:09,701 - logger_File -INFO - user entered email and password
+2023-06-15 20:41:09,781 - logger_File -INFO - user clicked on login button
+2023-06-15 20:41:10,284 - logger_File -INFO - user logged in into account
+2023-06-15 20:41:10,403 - logger_File -INFO - Smart Home Option is selected successfully
+2023-06-15 20:41:10,508 - logger_File -INFO - kasa outdoor smart plug item name was entered successfully
+2023-06-15 20:41:10,591 - logger_File -INFO - Search button was clicked successfully
+2023-06-15 20:41:10,860 - logger_File -INFO - Item was clicked successfully
+2023-06-15 20:41:11,163 - logger_File -INFO - Item quantity was selected successfully
+2023-06-15 20:41:11,232 - logger_File -INFO - Add to Cart button was clicked successfully
+2023-06-15 20:41:11,508 - logger_File -INFO - 2 quantity was displayed in the cart
+2023-06-15 20:41:29,739 - logger_File -INFO - user is on retail website
+2023-06-15 20:41:29,855 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 20:41:30,073 - logger_File -INFO - user entered email and password
+2023-06-15 20:41:30,149 - logger_File -INFO - user clicked on login button
+2023-06-15 20:41:30,630 - logger_File -INFO - user logged in into account
+2023-06-15 20:41:30,743 - logger_File -INFO - Electronics Option is selected successfully
+2023-06-15 20:41:30,843 - logger_File -INFO - Apex Legends entered successfully
+2023-06-15 20:41:30,919 - logger_File -INFO - Search button was clicked successfully
+2023-06-15 20:41:31,243 - logger_File -INFO - Item was clicked Successfully
+2023-06-15 20:41:31,547 - logger_File -INFO - 5 quantity was selected successfully
+2023-06-15 20:41:31,616 - logger_File -INFO - Add to Cart button was clicked successfully
+2023-06-15 20:42:53,309 - logger_File -INFO - user is on retail website
+2023-06-15 20:42:53,446 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 20:42:53,722 - logger_File -INFO - user entered email and password
+2023-06-15 20:42:53,826 - logger_File -INFO - user clicked on login button
+2023-06-15 20:42:54,303 - logger_File -INFO - user logged in into account
+2023-06-15 20:42:54,431 - logger_File -INFO - Electronics Option is selected successfully
+2023-06-15 20:42:54,525 - logger_File -INFO - Apex Legends entered successfully
+2023-06-15 20:42:54,598 - logger_File -INFO - Search button was clicked successfully
+2023-06-15 20:42:54,871 - logger_File -INFO - Item was clicked Successfully
+2023-06-15 20:42:55,171 - logger_File -INFO - 5 quantity was selected successfully
+2023-06-15 20:42:55,249 - logger_File -INFO - Add to Cart button was clicked successfully
+2023-06-15 20:42:55,524 - logger_File -INFO - 5 quantity was validated successfully
+2023-06-15 20:42:55,611 - logger_File -INFO - Cart button was clicked successfully
+2023-06-15 20:42:55,712 - logger_File -INFO - Proceed to checkout button was clicked successfully
+2023-06-15 20:42:55,786 - logger_File -INFO - Place your order button was clicked successfully
+2023-06-15 20:42:56,804 - logger_File -INFO - Order Placed Successfully message was verified successfully
+2023-06-15 20:43:28,780 - logger_File -INFO - user is on retail website
+2023-06-15 20:43:28,942 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 20:43:29,218 - logger_File -INFO - user entered email and password
+2023-06-15 20:43:29,288 - logger_File -INFO - user clicked on login button
+2023-06-15 20:43:29,751 - logger_File -INFO - user logged in into account
+2023-06-15 20:43:29,840 - logger_File -INFO - Order link clicked successfully
+2023-06-15 20:43:30,186 - logger_File -INFO - Cancel the order button was clicked Successfully
+2023-06-15 20:43:30,294 - logger_File -INFO - Bought wrong item reason was selected successfully
+2023-06-15 20:43:30,369 - logger_File -INFO - Cancel submit button was clicked successfully
+2023-06-15 20:44:16,740 - logger_File -INFO - user is on retail website
+2023-06-15 20:44:16,896 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 20:44:17,171 - logger_File -INFO - user entered email and password
+2023-06-15 20:44:17,255 - logger_File -INFO - user clicked on login button
+2023-06-15 20:44:17,748 - logger_File -INFO - user logged in into account
+2023-06-15 20:44:17,844 - logger_File -INFO - Order link clicked successfully
+2023-06-15 20:44:18,187 - logger_File -INFO - Rerurn Item button was clicked Successfully
+2023-06-15 20:44:18,295 - logger_File -INFO - Item damaged reason was selected successfully
+2023-06-15 20:44:18,382 - logger_File -INFO - FedEx reason was selected successfully
+2023-06-15 20:44:18,457 - logger_File -INFO - Return order button was clicked successfully
+2023-06-15 20:45:08,321 - logger_File -INFO - user is on retail website
+2023-06-15 20:45:08,452 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 20:45:08,674 - logger_File -INFO - user entered email and password
+2023-06-15 20:45:08,753 - logger_File -INFO - user clicked on login button
+2023-06-15 20:45:09,319 - logger_File -INFO - user logged in into account
+2023-06-15 20:45:09,414 - logger_File -INFO - Order link clicked successfully
+2023-06-15 20:45:09,734 - logger_File -INFO - Review Item button was clicked Successfully
+2023-06-15 20:45:09,980 - logger_File -INFO - Review Submit button was clicked Successfully
+2023-06-15 20:48:42,641 - logger_File -INFO - user is on retail website
+2023-06-15 20:48:42,760 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 20:48:42,960 - logger_File -INFO - user entered email and password
+2023-06-15 20:48:43,033 - logger_File -INFO - user clicked on login button
+2023-06-15 20:48:43,472 - logger_File -INFO - user logged in into account
+2023-06-15 20:48:43,567 - logger_File -INFO - Order link clicked successfully
+2023-06-15 20:48:43,977 - logger_File -INFO - Review Item button was clicked Successfully
+2023-06-15 20:48:44,226 - logger_File -INFO - Review Submit button was clicked Successfully
+2023-06-15 20:49:28,279 - logger_File -INFO - user is on retail website
+2023-06-15 20:49:28,395 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 20:49:28,614 - logger_File -INFO - user entered email and password
+2023-06-15 20:49:28,694 - logger_File -INFO - user clicked on login button
+2023-06-15 20:49:29,188 - logger_File -INFO - user logged in into account
+2023-06-15 20:49:29,286 - logger_File -INFO - Order link clicked successfully
+2023-06-15 20:49:29,627 - logger_File -INFO - Review Item button was clicked Successfully
+2023-06-15 20:49:29,875 - logger_File -INFO - Review Submit button was clicked Successfully
+2023-06-15 20:56:39,000 - logger_File -INFO - user is on retail website
+2023-06-15 20:56:39,153 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 20:56:39,377 - logger_File -INFO - user entered email and password
+2023-06-15 20:56:39,461 - logger_File -INFO - user clicked on login button
+2023-06-15 20:56:39,965 - logger_File -INFO - user logged in into account
+2023-06-15 20:56:40,057 - logger_File -INFO - Order link clicked successfully
+2023-06-15 20:56:40,396 - logger_File -INFO - Review Item button was clicked Successfully
+2023-06-15 20:56:40,493 - logger_File -INFO - headline value entered successfully
+2023-06-15 20:56:40,579 - logger_File -INFO - review text entered successfully
+2023-06-15 20:56:40,653 - logger_File -INFO - Review Submit button was clicked Successfully
+2023-06-15 21:05:05,138 - logger_File -INFO - user is on retail website
+2023-06-15 21:05:05,296 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 21:05:05,527 - logger_File -INFO - user entered email and password
+2023-06-15 21:05:05,598 - logger_File -INFO - user clicked on login button
+2023-06-15 21:05:06,101 - logger_File -INFO - user logged in into account
+2023-06-15 21:05:06,221 - logger_File -INFO - Electronics Option is selected successfully
+2023-06-15 21:05:06,312 - logger_File -INFO - Apex Legends entered successfully
+2023-06-15 21:05:06,389 - logger_File -INFO - Search button was clicked successfully
+2023-06-15 21:05:06,655 - logger_File -INFO - Item was clicked Successfully
+2023-06-15 21:05:06,937 - logger_File -INFO - 5 quantity was selected successfully
+2023-06-15 21:05:07,007 - logger_File -INFO - Add to Cart button was clicked successfully
+2023-06-15 21:05:07,285 - logger_File -INFO - 5 quantity was validated successfully
+2023-06-15 21:05:07,373 - logger_File -INFO - Cart button was clicked successfully
+2023-06-15 21:05:07,472 - logger_File -INFO - Proceed to checkout button was clicked successfully
+2023-06-15 21:05:07,544 - logger_File -INFO - Place your order button was clicked successfully
+2023-06-15 21:05:08,569 - logger_File -INFO - Order Placed Successfully message was verified successfully
+2023-06-15 21:10:58,158 - logger_File -INFO - user is on retail website
+2023-06-15 21:10:58,304 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 21:10:58,558 - logger_File -INFO - user entered email and password
+2023-06-15 21:10:58,638 - logger_File -INFO - user clicked on login button
+2023-06-15 21:10:59,131 - logger_File -INFO - user logged in into account
+2023-06-15 21:10:59,224 - logger_File -INFO - Order link clicked successfully
+2023-06-15 21:10:59,540 - logger_File -INFO - Review Item button was clicked Successfully
+2023-06-15 21:10:59,627 - logger_File -INFO - Great Deal entered successfully
+2023-06-15 21:10:59,735 - logger_File -INFO - will buy it next time entered successfully
+2023-06-15 21:10:59,810 - logger_File -INFO - Review Submit button was clicked Successfully
+2023-06-15 21:23:04,659 - logger_File -INFO - user is on retail website
+2023-06-15 21:23:04,849 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 21:23:05,146 - logger_File -INFO - user entered email and password
+2023-06-15 21:23:05,229 - logger_File -INFO - user clicked on login button
+2023-06-15 21:23:05,713 - logger_File -INFO - user logged in into account
+2023-06-15 21:23:05,806 - logger_File -INFO - Order link clicked successfully
+2023-06-15 21:23:06,161 - logger_File -INFO - Review Item button was clicked Successfully
+2023-06-15 21:23:06,249 - logger_File -INFO - Great Deal entered successfully
+2023-06-15 21:23:06,353 - logger_File -INFO - Will buy it again next time entered successfully
+2023-06-15 21:23:06,425 - logger_File -INFO - Review Submit button was clicked Successfully
+2023-06-15 21:23:31,040 - logger_File -INFO - user is on retail website
+2023-06-15 21:23:31,201 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 21:23:31,425 - logger_File -INFO - user entered email and password
+2023-06-15 21:23:31,507 - logger_File -INFO - user clicked on login button
+2023-06-15 21:23:31,962 - logger_File -INFO - user logged in into account
+2023-06-15 21:23:32,053 - logger_File -INFO - Order link clicked successfully
+2023-06-15 21:23:32,397 - logger_File -INFO - Review Item button was clicked Successfully
+2023-06-15 21:23:32,489 - logger_File -INFO - Great Deal entered successfully
+2023-06-15 21:23:32,595 - logger_File -INFO - Will buy it again next time entered successfully
+2023-06-15 21:23:32,668 - logger_File -INFO - Review Submit button was clicked Successfully
+2023-06-15 21:29:24,617 - logger_File -INFO - user is on retail website
+2023-06-15 21:29:24,733 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 21:29:24,956 - logger_File -INFO - user entered email and password
+2023-06-15 21:29:25,025 - logger_File -INFO - user clicked on login button
+2023-06-15 21:29:25,532 - logger_File -INFO - user logged in into account
+2023-06-15 21:29:25,626 - logger_File -INFO - Order link clicked successfully
+2023-06-15 21:29:25,978 - logger_File -INFO - Review Item button was clicked Successfully
+2023-06-15 21:29:26,068 - logger_File -INFO - Great Deal entered successfully
+2023-06-15 21:29:26,182 - logger_File -INFO - Will buy it again next time entered successfully
+2023-06-15 21:29:26,255 - logger_File -INFO - Review Submit button was clicked Successfully
+2023-06-15 21:29:27,035 - logger_File -INFO - Your review was added successfully message was verified successfully
+2023-06-15 21:39:37,893 - logger_File -INFO - user is on retail website
+2023-06-15 21:39:38,043 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 21:39:38,253 - logger_File -INFO - user entered email and password
+2023-06-15 21:39:38,331 - logger_File -INFO - user clicked on login button
+2023-06-15 21:39:38,895 - logger_File -INFO - user logged in into account
+2023-06-15 21:39:38,992 - logger_File -INFO - Order link clicked successfully
+2023-06-15 21:39:39,355 - logger_File -INFO - Review Item button was clicked Successfully
+2023-06-15 21:39:39,444 - logger_File -INFO - Great Deal entered successfully
+2023-06-15 21:39:39,557 - logger_File -INFO - Will buy it again next time entered successfully
+2023-06-15 21:39:39,631 - logger_File -INFO - Review Submit button was clicked Successfully
+2023-06-15 21:39:40,409 - logger_File -INFO - Your review was added successfully message was verified successfully
+2023-06-15 21:41:16,548 - logger_File -INFO - user is on retail website
+2023-06-15 21:41:16,665 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 21:41:16,883 - logger_File -INFO - user entered email and password
+2023-06-15 21:41:16,963 - logger_File -INFO - user clicked on login button
+2023-06-15 21:41:17,439 - logger_File -INFO - user logged in into account
+2023-06-15 21:41:17,530 - logger_File -INFO - Order link clicked successfully
+2023-06-15 21:41:17,892 - logger_File -INFO - Rerurn Item button was clicked Successfully
+2023-06-15 21:41:17,999 - logger_File -INFO - Item damaged reason was selected successfully
+2023-06-15 21:41:18,088 - logger_File -INFO - FedEx reason was selected successfully
+2023-06-15 21:41:18,163 - logger_File -INFO - Return order button was clicked successfully
+2023-06-15 21:44:05,714 - logger_File -INFO - user is on retail website
+2023-06-15 21:44:05,831 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 21:44:06,051 - logger_File -INFO - user entered email and password
+2023-06-15 21:44:06,131 - logger_File -INFO - user clicked on login button
+2023-06-15 21:44:06,619 - logger_File -INFO - user logged in into account
+2023-06-15 21:44:06,719 - logger_File -INFO - Order link clicked successfully
+2023-06-15 21:44:07,064 - logger_File -INFO - Cancel the order button was clicked Successfully
+2023-06-15 21:44:07,174 - logger_File -INFO - Bought wrong item reason was selected successfully
+2023-06-15 21:44:07,250 - logger_File -INFO - Cancel submit button was clicked successfully
+2023-06-15 21:44:07,487 - logger_File -INFO - Your Order Has Been Cancelled message was verified successfully
+2023-06-15 22:00:23,291 - logger_File -INFO - user is on retail website
+2023-06-15 22:00:23,433 - logger_File -INFO - user clicked on Sign In option
+2023-06-15 22:00:23,650 - logger_File -INFO - user entered email and password
+2023-06-15 22:00:23,723 - logger_File -INFO - user clicked on login button
+2023-06-15 22:00:24,179 - logger_File -INFO - user logged in into account
